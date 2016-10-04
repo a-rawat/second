@@ -1,0 +1,7 @@
+I have done R&D on this using the same layout of the newsletter you have sent. 
+
+It's quite difficult to use the same layout. Because different email client renders the html differently. 
+
+So i would recommend that you provide an image of the newsletter like you sent in ppt file.
+
+I can use the same image in announcment, underneath the image we place a link called view more or for further information that redirects to the sale page.
