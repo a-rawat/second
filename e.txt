@@ -4,4 +4,4 @@ It's quite difficult to use the same layout. Because different email client rend
 
 So i would recommend that you provide an image of the newsletter like you sent in ppt file.
 
-I can use the same image in announcment, underneath the image we place a link called view more or for further information that redirects to the sale page.
+I can use the same image in announcment, underneath the image we place a link called view more or for further information that redirects to the sale page. amit
